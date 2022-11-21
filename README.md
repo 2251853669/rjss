@@ -1,7 +1,7 @@
 # 软件搜搜
 软件聚合搜索。搜索结果来自各软件分享网站，比百度更高效。很多软件站以及国外英文站点未备案，百度并不收录。
 
-在线体验：https://rjss.pages.dev
+在线体验：http://sou.5200225.xyz/
 
 # 搜索结果来自：
         "foxirj.com",
@@ -23,5 +23,5 @@
         "www.sadeempc.com",
         "haxnode.net",
         "www.crackingcity.com"
-        
+        github.com
   
